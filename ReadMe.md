@@ -10,4 +10,4 @@ More details for this challenge can be found on [TryHackMe](https://tryhackme.co
 
 # Execution
 1. Test uploading a regular jpg file.
-[JPG Upload](Resources/Upload Vulnerabilities/Innocent jpg.PNG)
+![JPG Upload](Resources/Upload Vulnerabilities/Innocent jpg.PNG?raw=true)
