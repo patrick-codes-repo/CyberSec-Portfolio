@@ -3,7 +3,7 @@ This is a black-box file upload challenge. The only known is that the server, je
 This challenge can be found on [TryHackMe](https://tryhackme.com/r/room/uploadvulns).
 
 # Tools Used
-• BurpSuite
-• Gobuster
-• Hexedit
-• Linux command line
+- BurpSuite
+- Gobuster
+- Hexedit
+- Linux command line
