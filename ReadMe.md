@@ -11,3 +11,4 @@ More details for this challenge can be found on [TryHackMe](https://tryhackme.co
 # Execution
 1. Test uploading a regular jpg file.
 ![JPG Upload]([Resources/Upload Vulnerabilities/Innocent jpg.PNG](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/Innocent%20jpg.PNG)?raw=true)
+https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/Innocent%20jpg.PNG
