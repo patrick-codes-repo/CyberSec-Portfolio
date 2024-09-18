@@ -1,5 +1,5 @@
 # Scenario
-This is a beginner friendly black-box exercise. The goal is to exploit a web server and uncover three "secret ingredients" (flags).
+This is a beginner friendly black-box exercise. The goal is to exploit a web server and uncover three secret ingredients (flags).
 
 More details on this challenge can be found on [TryHackMe](https://tryhackme.com/r/room/picklerick).
 
