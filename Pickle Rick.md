@@ -67,11 +67,11 @@ Success! I now have a command prompt.
 
 The first ingredient is here, as well as a clue.
 
-12. I tried to cat the ingredient file, but this command is blocked.
+12. I try to cat the ingredient file, but this command is blocked.
 
 ![Cat](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/cat.PNG?raw=true)
 
-I tried to circumvent the rule by using tail and head, but these commands were also blocked.
+I attempt to circumvent the rule by using tail and head, but these commands were also blocked.
 
 13. Luckily, I was able to open the first ingredient file and clue.txt in the browser.
 
