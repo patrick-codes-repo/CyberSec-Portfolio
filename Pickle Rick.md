@@ -23,7 +23,7 @@ There is a username saved here, this will likely be useful.
 
 ![Nmap](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/nmap.PNG?raw=true)
 
-4. Ssh is running on the server as well, I may be able to log in using the username found in the source code.
+4. ssh is running on the server as well, I may be able to log in using the username found in the source code.
 
 ![ssh](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/ssh%20attempt.PNG?raw=true)
 
