@@ -109,7 +109,7 @@ It may be possible to use this prompt to run the shell by entering the proper fi
 
 ![Not Exist](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/not%20exist.PNG?raw=true)
 
-15. After having to luck using the absolute path to my shell, /content/IEY.jpg, I tried a relative path to my shell, ../content/IEY.jpg, this made a connection!
+15. After having no luck using the absolute path to my shell, /content/IEY.jpg, I tried a relative path to my shell, ../content/IEY.jpg, this made a connection!
 
 ![Connection](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/connection.PNG?raw=true)
 
