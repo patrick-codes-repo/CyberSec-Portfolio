@@ -107,7 +107,7 @@ The connection was successful!
 
 ![Connection](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/connection.PNG?raw=true)
 
-19. From here I searched through the file system and did not find anything useful. The only interesting directory found, but could not access, /root. So my next step was to try and login as root.
+19. From here I searched through the file system and did not find anything useful. The only interesting directory I found, but could not access, was /root. So my next step was to try and login as root.
 
 ![root](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/root.PNG?raw=true)
 
