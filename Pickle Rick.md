@@ -6,7 +6,7 @@ More details on this challenge can be found on [TryHackMe](https://tryhackme.com
 # Tools Used
 - Nmap
 - Gobuster
-- Burp
+- Netcat
 
 # Execution
 1. Visit the target web application.
