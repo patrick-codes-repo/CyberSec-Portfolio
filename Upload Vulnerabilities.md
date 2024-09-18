@@ -58,9 +58,9 @@ X-Powered-By has a value of Express. A quick search for Expess.js reveals that i
 
 7. This means the uploaded shell will need to run on Node.js. In order to upload a shell I must first determine what the server side filter will allow through. This will be done through extensive trial and error.
 The following are some of the details learned:
-- Uploading a file with a random extension results in an error. This means the server is using a whitelist as a filter. More testing revealed that the server only accepts jpg files, malformed and alternate extensions were also rejected.
-- Uploading a file with non-jpeg magic numbers or even no magic numbers at all is successful. This means there is no magic number filtering performed server side.
-- Changing the MIME type of the uploaded file with Burp results in an error. This means the server filters for MIME types. Further testing showed that image/jpeg was the only accepted MIME type.
+  - Uploading a file with a random extension results in an error. This means the server is using a whitelist as a filter. More testing revealed that the server only accepts jpg files, malformed and alternate extensions were also rejected.
+  - Uploading a file with non-jpeg magic numbers or even no magic numbers at all is successful. This means there is no magic number filtering performed server side.
+  - Changing the MIME type of the uploaded file with Burp results in an error. This means the server filters for MIME types. Further testing showed that image/jpeg was the only accepted MIME type.
 
 8. Now that I have an idea of what the server is filtering for, I need to find out how and where my uploaded files are saved. The first step of this is to find directories on the server. This is done using a Gobuster scan.
 
