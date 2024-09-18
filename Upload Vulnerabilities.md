@@ -118,10 +118,10 @@ It may be possible to use this prompt to run the shell by entering the proper fi
 ![Connection](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/flag.PNG)
 
 # Lessons learned
-1. Always check /admin. I was able to successfully upload and find by my shell but could not find a way to run the code by accessing it via its URL. I had to look at a challenge hint to know to check /admin. I should have checked this page from the start since it can often contain valuable information.
+1. Always check /admin. I was able to successfully upload and find my shell but could not find a way to run the code by accessing it via its URL. I had to look at a challenge hint to know to check /admin. I should have checked this page from the start since it can often contain valuable information.
 
 2. A Node.js server is not the same as JavaScript server. After finding that the server was using Express I found generic shell code for JavaScript. This shell code would not run on the server and I had to find code specifically for Node.js.
 
-3. Various ways to check for and bypass client and server side filters. Discovering what the server filtered for was particularly challenging and rewarding.
+3. Various techniques to check for and bypass client and server side filters. Discovering what the server filtered for was particularly challenging and rewarding.
 
 
