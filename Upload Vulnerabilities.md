@@ -36,7 +36,7 @@ test.jpg now uploads successfully. After changing the extension of test.jpg to j
 
 ![Page Source](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/page%20source.PNG?raw=true)
 
-There does not appear to be any filtering in the page source code. It is possible that one of the included js files performs filtering. This will likely be done by upload.js considering the name.
+There does not appear to be any filtering in the page source code. It is possible that one of the included js files performs the filtering. This will likely be done by upload.js considering the name.
 
 5. Clear browser data and refresh the page to intercept external js files with Burp before they are loaded in the browser. Burp’s intercept rules must also be edited to include js files. upload.js is of particular interest as it seems to be the most likely to be performing client side filtering.
 
