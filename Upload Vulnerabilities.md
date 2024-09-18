@@ -77,6 +77,8 @@ The content and Content directories appear to duplicates of each other. After op
 
 10. Now that I know that where to find uploaded files I will try to upload a script for a reverse shell. My earlier testing revealed that the uploaded file must have a jpg extension and MIME type of image/jpeg.
 
+Create a jpg file containing the shell script.
+
 ![Shell Code](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Upload%20Vulnerabilities/shell%20code.PNG?raw=true)
 
 Intercept the file upload with Burp and confirm the MIME type is image/jpeg.
