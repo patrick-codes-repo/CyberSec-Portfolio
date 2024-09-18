@@ -87,7 +87,7 @@ I attempt to circumvent the rule by using tail and head, but these commands were
 
 This output is in reverse, so the second ingredient is actually 1 jerry tear.
 
-15. I still do not know where the third ingredient is. To start my search I inspect the source code of the command panel and found what appeared to be a base64 encoded string.
+15. I still do not know where the third ingredient is. To start my search I inspect the source code of the command panel and found what appears to be a base64 encoded string.
 
 ![base64](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/base64.PNG?raw=true)
 
