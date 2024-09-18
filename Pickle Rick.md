@@ -43,7 +43,7 @@ After investigating these files none seemed to be particularly interesting.
 
 ![Robots](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/robots.PNG?raw=true)
 
-8. Perform another Gobuster scan, but this time search for some common file types.
+8. Perform another Gobuster scan, but this time, search for some common file types.
 
 ![File Scan](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/file%20scan.PNG?raw=true)
 
