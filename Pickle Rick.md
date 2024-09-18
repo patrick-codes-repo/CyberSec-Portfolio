@@ -99,7 +99,7 @@ After decoding this string for multiple rounds it gave me the text “rabbit hol
 
 ![netcat](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/netcat.PNG?raw=true)
 
-18. My first attempt was a bash reverse shell, this had no affect. I know the server can run PHP so I tried a PHP reverse shell next.
+18. My first attempt was a bash reverse shell, this had no effect. I know the server can run PHP so I tried a PHP reverse shell next.
 
 ![Shell Code](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Resources/Pickle%20Rick/shell%20code.PNG?raw=true)
 
