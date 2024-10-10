@@ -4,4 +4,4 @@
 [Pickle Rick](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Pickle%20Rick.md)
 
 # Projects
-Coming soon
+[Automoted Schedule Entry](https://github.com/patrick-codes-repo/CyberSec-Portfolio/blob/main/Automated%20Schedule%20Entry.md)
